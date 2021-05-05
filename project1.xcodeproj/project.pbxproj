@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A6C297A2642A5500079880E /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A6C29792642A5500079880E /* Storyboard.storyboard */; };
 		D808484F264282280026C444 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D808484E264282280026C444 /* AppDelegate.swift */; };
 		D8084851264282280026C444 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8084850264282280026C444 /* SceneDelegate.swift */; };
 		D8084853264282280026C444 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8084852264282280026C444 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A6C29792642A5500079880E /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		D808484B264282280026C444 /* project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D808484E264282280026C444 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D8084850264282280026C444 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				D8084850264282280026C444 /* SceneDelegate.swift */,
 				D8084852264282280026C444 /* ViewController.swift */,
 				D8084854264282280026C444 /* Main.storyboard */,
+				9A6C29792642A5500079880E /* Storyboard.storyboard */,
 				D80848572642822A0026C444 /* Assets.xcassets */,
 				D80848592642822A0026C444 /* LaunchScreen.storyboard */,
 				D808485C2642822A0026C444 /* Info.plist */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D808485B2642822A0026C444 /* LaunchScreen.storyboard in Resources */,
+				9A6C297A2642A5500079880E /* Storyboard.storyboard in Resources */,
 				D80848582642822A0026C444 /* Assets.xcassets in Resources */,
 				D8084856264282280026C444 /* Main.storyboard in Resources */,
 			);
